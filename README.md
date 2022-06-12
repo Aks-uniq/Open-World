@@ -5,4 +5,4 @@ Collaborators :\
     Pranav Krishna U\
     Sathvik Choulappally\
     Ananthakrishnan S\
-\[Resources](https://www.youtube.com/playlist?list=PL6hUQCYXoCBPUmfs8aMmwWkPFJQat8hEK)
+#[Resources](https://www.youtube.com/playlist?list=PL6hUQCYXoCBPUmfs8aMmwWkPFJQat8hEK)
